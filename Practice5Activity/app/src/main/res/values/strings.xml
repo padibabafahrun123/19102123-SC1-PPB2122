@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Practice5Activity</string>
+    <string name="hint_input_prodi">input prodi</string>
+    <string name="btn_prodi">bawa data prodi ke activity lain</string>
+    <string name="btn_call_browser">panggil ittelkom-pwt.ac.id</string>
+    <string name="btn_call_camera">panggil kamera</string>
+    <string name="input_phone_number">input nomor telepon</string>
+    <string name="btn_call_phone">telepon</string>
+    <string name="btn_fragment">buka fragment</string>
+</resources>
